@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="catCalculation:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98c78803-d4bd-4e93-a136-a2f7d2c7810a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gifiN0k3V2UrCzcF2sBCuUW6Vl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.catCalculation">
+    <configuration name="catCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="catCalculation" />
+      <module name="catCalculation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findMissingNumber" />
+      <module name="catCalculation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weightCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weightCalculation" />
+      <module name="catCalculation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="catCalculation.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/catCalculation_jar/catCalculation.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hhitTask.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/hhitTask_jar/hhitTask.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.catCalculation" />
+      <item itemvalue="Application.findMissingNumber" />
+      <item itemvalue="Application.weightCalculation" />
+      <item itemvalue="JAR Application.hhitTask.jar" />
+      <item itemvalue="JAR Application.catCalculation.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.catCalculation" />
+        <item itemvalue="JAR Application.catCalculation.jar" />
+        <item itemvalue="JAR Application.hhitTask.jar" />
+        <item itemvalue="Application.weightCalculation" />
+        <item itemvalue="Application.findMissingNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c78803-d4bd-4e93-a136-a2f7d2c7810a" name="Default Changelist" comment="" />
+      <created>1598602459536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598602459536</updated>
+      <workItem from="1598602461426" duration="11685000" />
+      <workItem from="1598629896547" duration="5712000" />
+      <workItem from="1598687702642" duration="1469000" />
+      <workItem from="1598697103824" duration="2676000" />
+      <workItem from="1598777753673" duration="1354000" />
+      <workItem from="1598779187654" duration="34000" />
+      <workItem from="1598800598906" duration="121000" />
+      <workItem from="1598800974671" duration="12000" />
+      <workItem from="1599140799394" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1494" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598779100945">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="1494" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779100945" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598778689734" />
+    <state x="1753" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598779043262">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="1753" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779043262" />
+    <state x="413" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598778573234" />
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1598689003763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598689003763" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1598778688918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598778688918" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1598800986103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1598779121346" />
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779103130" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598800986103" />
+    <state width="1323" height="131" key="GridCell.Tab.0.center" timestamp="1598800986103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1598779121346" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779103130" />
+    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598800986103" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left" timestamp="1598800986103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1598779121346" />
+    <state width="1237" height="131" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779103130" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598800986103" />
+    <state width="1323" height="131" key="GridCell.Tab.0.right" timestamp="1598800986103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1598779121346" />
+    <state width="1237" height="131" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779103130" />
+    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598800986103" />
+    <state x="1519" y="0" key="SettingsEditor" timestamp="1598779047439">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="1519" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1598779047439" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598778612214" />
+    <state x="65" y="0" key="new project wizard" timestamp="1598779218854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1598779218854" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598608708313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1598608708313" />
+  </component>
+</project>
